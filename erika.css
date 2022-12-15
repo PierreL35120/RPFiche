@@ -240,28 +240,29 @@ h2{
 }
 
 .ActuelDef{
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,132,0,1) 90%, rgba(0,0,0,1) 100%);
+    background: rgb(194,126,0);
+    background: linear-gradient(180deg, rgba(194,126,0,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .ActuelMagie{
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,31,255,1) 90%, rgba(0,0,0,1) 100%);
+    background: rgb(55,67,189);
+    background: linear-gradient(180deg, rgba(55,67,189,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .ActuelRes{
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,255,252,1) 90%, rgba(0,0,0,1) 100%);
+    background: rgb(55,161,189);
+    background: linear-gradient(180deg, rgba(55,161,189,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .ActuelVit{
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,144,41,1) 90%, rgba(0,0,0,1) 100%);
+    background: rgb(82,189,55);
+    background: linear-gradient(180deg, rgba(82,189,55,1) 0%, rgba(0,0,0,1) 100%);
+
 }
 
 .ActuelPV{
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,247,0,1) 90%, rgba(0,0,0,1) 100%);
+    background: rgb(188,189,55);
+    background: linear-gradient(180deg, rgba(188,189,55,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .ManquantPV, .ManquantAtk, .ManquantDef, .ManquantMagie, .ManquantRes, .ManquantVit {
