@@ -249,19 +249,19 @@ h2{
 }
 
 .ActuelAtk{
-    width: 12.5%;
+    width: 37.5%;
 }
 
 .ManquantAtk{
-    width: 87.5%;
+    width: 62.5%;
 }
 
 .ActuelMagie, .ActuelVit{
-    width: 75%;
+    width: 87.5%;
 }
 
 .ManquantMagie, .ManquantVit{
-    width: 25%;
+    width: 12.5%;
 }
 
 .ActuelRes, .ActuelDef{
