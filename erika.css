@@ -236,6 +236,7 @@ h2{
 .ActuelAtk{
     background: rgb(255,255,255);
     background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 90%, rgba(0,0,0,1) 100%);
+    width: 0%;
 }
 
 .ActuelDef{
@@ -277,12 +278,8 @@ h2{
     width: 50%;
 }
 
-.ActuelAtk{
-    width: 37.5%;
-}
-
 .ManquantAtk{
-    width: 62.5%;
+    width: 100%;
 }
 
 .ActuelMagie, .ActuelVit{
@@ -293,12 +290,20 @@ h2{
     width: 12.5%;
 }
 
-.ActuelRes, .ActuelDef{
+.ActuelRes{
     width: 50%;
 }
 
-.ManquantRes, .ManquantDef{
+.ActuelDef{
+    width: 37.5%
+}
+
+.ManquantRes{
     width: 50%;
+}
+
+.ManquantDef{
+     width: 62.5%
 }
 
 .Graphique{
