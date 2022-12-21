@@ -280,39 +280,47 @@ h2{
 }
 
 .ActuelPV{
-    width: 50%;
+    width: 62.5%;
 }
 
 .ManquantPV{
-    width: 50%;
+    width: 37.5%;
+}
+
+.ActuelAtk{
+    width: 87.5
 }
 
 .ManquantAtk{
+    width: 12.5%;
+}
+
+.ManquantMagie{
     width: 100%;
 }
 
-.ActuelMagie, .ActuelVit{
+.ActuelVit{
     width: 87.5%;
 }
 
-.ManquantMagie, .ManquantVit{
+.ManquantVit{
     width: 12.5%;
 }
 
 .ActuelRes{
-    width: 50%;
+    width: 25%;
 }
 
 .ActuelDef{
-    width: 37.5%
+    width: 50%
 }
 
 .ManquantRes{
-    width: 50%;
+    width: 75%;
 }
 
 .ManquantDef{
-     width: 62.5%
+     width: 50%
 }
 
 .Graphique{
